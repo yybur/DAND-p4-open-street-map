@@ -1,0 +1,10 @@
+I chose London of England for the OSM study, because first I like the cultural atomsphere a few years ago when I visited there, second I think the city probably has more information on OSM platform than other places on the platform as the system is hosted by London-based universties including University College London. 
+I'm also interested the bicycle environemnt of the city with the overseas move of Chinese bike sharing companies like Mobike and Ofo. The bike sharing move brought many advantages to residents but also issues for local authorities, so I'd like to have a glimpse at London‘s bicycle environment.
+
+As the popular London map on MapZen is way too big, I narrow the bound I chose and focus more on city center than outskirts.
+
+Chosen bounds:
+<bounds minlat="51.4716534" minlon="-0.1919174" maxlat="51.5350178" maxlon="-0.052185"/>
+
+Middle point of the map:
+https://www.openstreetmap.org/search?query=51.5033356%2C%20-0.1220512#map=15/51.5033/-0.1221&layers=N

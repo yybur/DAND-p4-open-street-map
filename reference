@@ -1,0 +1,28 @@
+Ref:
+
+- Stackoverflow:
+
+SQL syntax error:
+https://stackoverflow.com/questions/7447938/sqlite3-operationalerror-near-syntax-error-in-python-using-in-operato
+
+python index error:
+https://stackoverflow.com/questions/34095612/indexerror-list-index-out-of-range-quiz
+https://stackoverflow.com/questions/24100285/list-index-out-of-range-with-split
+
+Discussion on youdaxue:
+http://discussions.youdaxue.com/t/p3-sql-2-sql/24765
+http://discussions.youdaxue.com/t/sql-aaa-year/46509
+http://discussions.youdaxue.com/t/p3/19335
+http://discussions.youdaxue.com/t/osm/21631
+
+Tutorial:
+http://www.sqlitetutorial.net/sqlite-import-csv/
+http://www.runoob.com/sqlite/sqlite-syntax.html
+http://www.runoob.com/python/python-intro.html
+
+Documentation:
+https://docs.python.org/2/tutorial/index.html
+mainly on: defaultdict, set, tuple
+https://docs.python.org/2/library/
+mainly on: sqlite3, re, csv.
+
