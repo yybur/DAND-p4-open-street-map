@@ -1,6 +1,8 @@
 ### P4: JSON+SQL--Open Street Map
-**Submission report: English**
-**Keywords: open street map, london, data cleaning, bad-formatted data**
+
+- **Submission report: English**
+- **Keywords: open street map, london, data cleaning, bad-formatted data**
+
 Pick a city and download its JSON map data from Open Street Map. Clean the data and explore the city virtually.
 - Pick London (mainly soho area) and download the map.
 - Data cleaning
